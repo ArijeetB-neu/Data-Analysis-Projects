@@ -1,28 +1,20 @@
-Udacity online data analyst program is a great online learning platform which prepares me for a career as a data analyst by helping me learn to clean and organize data, uncover patterns and insights, draw meaningful conclusions and clearly communicate critical findings. I am developing proficiency in Python libraries (Numpy, Pandas, Matplotlib, Seaborn) and SQL as I build a portfolio of projects .
+I am making a portfolio of projects to show all the aspects of data analyses. Which include cleaning and organizing data, uncover patterns and insights, draw meaningful conclusions and clearly communicate critical findings. I have used Python libraries(Numpy, Pandas, Matplotlib, Seaborn) for these projects.
 
 ## Part 1 - Intro to Data Analysis
 Subjects Covered:
 
-- Anaconda: Learned to use Anaconda to manage packages and environments for use with Python
-- Jupyter Notebook: Learned to use this open-source web application
 - Data Analysis Process
 - NumPy for 1 and 2D Data
 - Pandas Series and Dataframes
-### Project 1: Explore Weather Trends with weather forecast data
-In this project, I choose Udacity's curated datasets and investigate it using Pandas. I complete the entire data analysis process and finished by sharing the findings.
 
-### Project 2: Investigate a dataset called No Show Appointment data.
+### Project 1: Findings from dataset called No Show Appointment data.
 I selected this Kaggle dataset and used statistical techniques to answer questions about the data and made my conclusions and recommendations in a report.
 
 ## Part 2 -Practical Statistics
 Subjects Covered:
 
 - Probability
-- Conditional Probability
-- Binominal Distribution
 - Sampling Distribution and Central Limit Theorem
-- Descriptive Statistics
-- Inferential Statistics
 - Confidence Levels and Intervals
 - Hypothesis Testing
 - T-tests and A/B test
