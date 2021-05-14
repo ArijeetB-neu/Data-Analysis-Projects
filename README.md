@@ -7,7 +7,7 @@ Subjects Covered:
 - NumPy for 1 and 2D Data
 - Pandas Series and Dataframes
 
-### Project 1: Findings from dataset called No Show Appointment data.
+### Project 1: [Investigate a dataset called No Show Appointment data.](https://github.com/ArijeetB-neu/Data-Analysis-Projects/tree/main/P1-Investigate%20a%20Dataset)
 I selected this Kaggle dataset and used statistical techniques to answer questions about the data and made my conclusions and recommendations in a report.
 
 ## Part 2 - Practical Statistics
