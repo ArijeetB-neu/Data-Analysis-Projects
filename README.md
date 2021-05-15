@@ -21,7 +21,7 @@ Subjects Covered:
 - Regression
 - Multiple Linear Regression
 - Logistic Regression
-### Project 2: Analyze A/B Test Results with company ab_data.csv
+### Project 2: [Analyze A/B Test Results](https://github.com/ArijeetB-neu/Data-Analysis-Projects/tree/main/P2-Analyze%20A-B%20Test%20Results)
 In this project, I assessed the quality, tidiness of data and then cleaned it using Python. I documented the wrangling efforts in a Jupyter Notebook, plus showcase them through analyses and visualizations using Python. Finally used AB Testing and regression methods to decide if the company should launch a new webpage or keep the old one.
 
 ## Part 3 - Data Visualisation
