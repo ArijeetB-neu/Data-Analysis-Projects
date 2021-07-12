@@ -30,7 +30,7 @@ Subjects Covered:
 - Univariate exploration of data ( histogram , bar charts , Use axis limits and different scales )
 - Bivariate exploration of data ( scatter plots , clustered bar charts , violin and bar charts , faceting )
 - Multivariate exploration of data ( encodings , plot matrices , feature engineering )
-- Explanatory Visulizations ( story telling with data , polish plots , create slide deck )
+- Explanatory Visualisation ( story telling with data , polish plots , create slide deck )
 
-### Project 3: Communicate data finding with Ford Go Bike Sharing Data
-In this project, I used Python’s data visualization tools to systematically explore the bike dataset for its properties and relationships between variables. Then, I created a presentation that communicates the findings to others.
+### Project 3: [Communicate Bike-Sharing Analysis for Ford Go Bike Sharing Data](https://github.com/ArijeetB-neu/Data-Analysis-Projects/tree/main/P3-Communicate%20Bike-Sharing%20Analysis)
+In this project, I used Python’s data visualization tools to systematically explore the bike dataset for its properties and relationships between variables. Then, I created a presentation that summarize the findings.

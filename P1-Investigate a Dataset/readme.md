@@ -1,6 +1,6 @@
 ## Project 1 - Investigate dataset called No Show Appointment data
 
-### Data Sources
+### Data Source
 **Name:** noshowappointments-kagglev2-may-2016.csv
 - Definition: Record of 100k medical appointments from Brazil
 - Source: kaggle
