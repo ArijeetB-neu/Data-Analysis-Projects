@@ -1,5 +1,4 @@
-# UdacityProject_ExploreWeatherTrends
-## Udacity Data Analytics Nanodegree P1 - Exploring Weather Trends using Python and SQL
+# P2 - Exploring Weather Trends using Python and SQL
 
 ### Selected city: Haora (India)
 
