@@ -1,5 +1,5 @@
-# UdacityProject_Communicate Data Findings
-## Udacity Data Analytics Nanodegree P5 - Communicate Data Findings (Ford GoBike Data)
+# Communicate Data Findings
+## P5 - Communicate Data Findings (Ford GoBike Data)
 
 ### Data Source - (https://www.fordgobike.com/system-data)
 
